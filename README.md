@@ -8,7 +8,7 @@
 > android studio
 
    ```groovy
-   compile 'com.github.supertaohaili:ImmersionBar:1.0.0'
+   compile 'com.github.supertaohaili:ImmersionBar:1.0.1'
    ```
 
 >eclipse
